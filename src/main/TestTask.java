@@ -4,6 +4,7 @@ package main;
  * Az alábbi osztály egyetlen metódust tartalmaz, amely hibásan működik.
  * Írj teszteseteket a test mappában található main.TestTaskTest nevű osztályba,
  * amelyek feltárják a metódus hibáját (vagy hibáit)!
+ * (5 pont)
  */
 public class TestTask {
 
